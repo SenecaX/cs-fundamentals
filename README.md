@@ -1,0 +1,2 @@
+# cs-fundamentals
+ This repository contains code examples for various computer science fundamentals. It is intended to be a resource for anyone learning or reviewing computer science concepts, including data structures, algorithms, and more. The code examples are written in a variety of programming languages and are organized by topic. Feel free to use this repository as a reference or to contribute your own code examples.
